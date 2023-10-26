@@ -1,0 +1,15 @@
+.intro__wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.intro h1{
+    font-size: medium;
+    font-weight: 800;
+    margin: 0;
+}
+
+.intro p {
+    margin: 0;
+}
